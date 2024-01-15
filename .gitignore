@@ -1,0 +1,27 @@
+# Executáveis gerados
+*.out
+*.exe
+
+# Arquivos de objeto e bibliotecas compartilhadas
+*.o
+*.so
+*.dll
+
+# Arquivos temporários
+*~
+
+# Arquivos gerados durante o processo de compilação
+*.dSYM/
+
+# Arquivos de configuração do compilador
+*.gcno
+*.gcda
+
+# Arquivos de dependências gerados pelo compilador
+*.d
+
+# Arquivos de log
+*.log
+
+# Arquivos de backup
+*.bak
